@@ -16,5 +16,11 @@ Used ResNet18 pre trained neural network on ImageNet dataset.
 #### Training Model:
 Trained model, until got accuracy > 95% on training datset, and evaluate on test dataset-
 
+![alt text](https://github.com/rickhagwal/Covid19_Image_classification/blob/master/images/trained_model_imgs.PNG)
+
+
 #### Final results:
 Final Results for few images can be depicted as under-
+
+![alt text](https://github.com/rickhagwal/Covid19_Image_classification/blob/master/images/final_res.PNG)
+
