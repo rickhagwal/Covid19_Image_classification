@@ -2,7 +2,7 @@
 
 #### Objective:
 
-Image Classification Model, to predict Chest X_ray scans, that belonged to one of three classes of Chest X rays: Normal, Viral Pneumonia, COVID-19, with a reasonably high accuracy.
+Image Classification Model, to predict Chest X_ray scans, that belonged to one of three classes of Radiography dataset: Normal, Viral Pneumonia, COVID-19, with a reasonably high accuracy of 97.78% .
 
 #### Dataset:
 [COVID-19 Radiography Dataset](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database) on Kaggle
