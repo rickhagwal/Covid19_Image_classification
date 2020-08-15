@@ -19,8 +19,8 @@ Trained model, until got accuracy > 95% on training datset, and evaluate on test
 ![alt text](https://github.com/rickhagwal/Covid19_Image_classification/blob/master/images/trained_model_imgs.PNG)
 
 
-#### Final results:
-Final Results for few images can be depicted as under-
+#### Testing on test dataset:
+Final Results for few images on test dataset can be depicted as under-
 
 ![alt text](https://github.com/rickhagwal/Covid19_Image_classification/blob/master/images/final_res.PNG)
 
