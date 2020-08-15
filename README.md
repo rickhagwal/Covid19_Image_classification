@@ -14,13 +14,16 @@ Deep Learning, PyTorch
 Used ResNet18 pre trained neural network on ImageNet dataset.
 
 #### Training Model:
-Trained model, until got accuracy > 95% on training datset, and evaluate on test dataset-
+Trained model, until got accuracy > 95% on training datset, and evaluate on validation dataset-
 
 ![alt text](https://github.com/rickhagwal/Covid19_Image_classification/blob/master/images/trained_model_imgs.PNG)
 
 
-#### Testing on test dataset:
-Final Results for few images on test dataset can be depicted as under-
+#### Accuracy and Results:
+
+Got accuracy of 97.78% on validation dataset.
+
+Final Results in one batch, on validation dataset is shown below-
 
 ![alt text](https://github.com/rickhagwal/Covid19_Image_classification/blob/master/images/final_res.PNG)
 
